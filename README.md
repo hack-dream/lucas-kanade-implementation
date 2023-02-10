@@ -18,7 +18,7 @@
 
 Предпочтительно иметь однотонный, контрастный с фоном объект, константного размера и обладающий явным направлением движения
 
-![](https://raw.githubusercontent.com/hack-dream/lucas-kanade-implementation/main/sample.gif)
+![](https://raw.githubusercontent.com/hack-dream/lucas-kanade-implementation/main/bouncing_ball.gif)
 
 ### Результирующий файл
 
